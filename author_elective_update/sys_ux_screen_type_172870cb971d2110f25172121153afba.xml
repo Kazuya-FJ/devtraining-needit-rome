@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>NeedIt App Records</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-05 03:11:05</sys_created_on>
+        <sys_id>172870cb971d2110f25172121153afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App Records</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_172870cb971d2110f25172121153afba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-05 03:11:05</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=172870cb971d2110f25172121153afba"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4bfc3928db08dd1852cec5970596191c</instance_id>
+        <instance_name>dev128622</instance_name>
+        <name>sys_ux_screen_type_172870cb971d2110f25172121153afba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>NeedIt App Records</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-05 03:11:05</sys_created_on><sys_id>172870cb971d2110f25172121153afba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt App Records</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_172870cb971d2110f25172121153afba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-05 03:11:05</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=172870cb971d2110f25172121153afba"/></record_update>]]></payload>
+        <payload_hash>-1758945167</payload_hash>
+        <record_name>NeedIt App Records</record_name>
+        <reverted_from/>
+        <source>d0c896b697a82110f25172121153af63</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-05 03:11:05</sys_created_on>
+        <sys_id>5728b84f971d2110f25172121153af03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186afc05d900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-05 03:11:05</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>9f28b84f5d1d2110ae17453273a0a502</update_guid>
+        <update_guid_history>9f28b84f5d1d2110ae17453273a0a502:-1758945167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-05 03:47:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>29282421e9cc489cb2d8c584e8a646e4</sys_id>
+        <sys_metadata>172870cb971d2110f25172121153afba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App Records</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_172870cb971d2110f25172121153afba</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_172870cb971d2110f25172121153afba">5728b84f971d2110f25172121153af03</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-05 03:47:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
